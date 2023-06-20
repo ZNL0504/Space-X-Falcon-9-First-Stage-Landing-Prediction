@@ -1,5 +1,7 @@
 # Space-X-Falcon-9-First-Stage-Landing-Prediction
-IBM Data Science Professional Certificate - Applied Data Science Capstone
+IBM Data Science Professional Certificate - Applied Data Science Capstone  
+
+by Zhinan Li
 *******************************
 ## Project Overview
 In this capstone, we will predict if the Falcon 9 first stage will land successfully. 
@@ -27,8 +29,8 @@ The following is an example of a successful and launch.
 - Launch Site location interactive map analysis with Folium
 - Interactive dashboard with Poltly Dash
 ### 5. Predictive analysis using classification models
-- Train Logistic Regression model, SVM, Tree Decision classifier, KNN models
-- Use GridSearchCV to conduct hyper parameter tunning
+- Train Logistic Regression, SVM, Tree Decision classifier, KNN models
+- Use `GridSearchCV` to conduct hyper parameter tunning
 ### 6. Data finding final report
 - Compile all of above steps into one place 
 - Deliver data-driven insights to determine if the first stage of Falcon 9 will land successfully
